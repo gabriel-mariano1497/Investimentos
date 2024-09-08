@@ -1,4 +1,4 @@
-## Investimentos: Uma aplicação web para pesquisa de investimentos
+## Investimentos: Uma aplicação web para pesquisa de investimentos. / Imersão Dev com Google Gemini
 
 ### Descrição
 
